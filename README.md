@@ -90,8 +90,8 @@ Currently a **Senior Developer at Elad Software**, working on-site at the **Mini
 
 ## 📚 Learning & Certifications
 
-- 🎓 **AI/ML & Data Science** – READY (In Progress)
-- 🤖 **GenAI & LangChain** – Kamatech (In Progress)
+- 🎓 **AI/ML & Data Science** – READY -2026
+- 🤖 **GenAI & LangChain** – Kamatech 2025
 - ☁️ **AWS + Kubernetes & Containers** – 2023
 - 📊 **Data Analyst & AI** – Self-directed (NumPy, Pandas, Scikit-learn) – 2022
 - 🏫 **AI & Algorithms** – Stanford Online / Coursera – 2022
