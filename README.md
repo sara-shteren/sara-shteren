@@ -85,7 +85,6 @@ Currently a **Senior Developer at Elad Software**, working on-site at the **Mini
 | [SMARTI-Service-Challenge-Tsg](https://github.com/sara-shteren/SMARTI-Service-Challenge-Tsg) | Production-grade clean architecture: Api / Application / Domain / Repositories layers + Dockerfile | C#, .NET Core, Docker |
 | [Mitav_dash_test](https://github.com/sara-shteren/Mitav_dash_test) | Full-stack dashboard with Web API backend, React frontend & SQL data layer | C#, React, SQL Server |
 | [iDetect](https://storage.googleapis.com/idetect-252605.appspot.com/landing/index1.html) | AI object detection app — Bootcamp final project using Cloud Vision API, AutoML & NoSQL on GCP | GCP, AutoML, Vision API |
-| [AI-Medical-Reimbursement-Assistant](https://github.com/sara-shteren/AI-Medical-Reimbursement-Assistant) 🚧 *in progress* | Multi-agent system (LangGraph) that checks medical reimbursement claims before submission — Policy/Doc-Checker/Summary agents + **Critic anti-hallucination loop**; RAG via pgvector. | Python, FastAPI, LangGraph, PostgreSQL+pgvector, Gemini |
 
 ---
 
