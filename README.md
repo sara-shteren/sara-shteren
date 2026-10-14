@@ -66,7 +66,7 @@ Currently a **Senior Developer at Elad Software**, working on-site at the **Mini
 
 ## 🏢 Experience
 
-**Senior Full Stack & AI Developer** @ [Elad Software](https://www.elad.co.il/) / Ministry of Justice `2022 – Present`
+**Senior Full Stack & GenAI Developer** @ [Elad Software](https://www.elad.co.il/) / Ministry of Justice `2022 – Present`
 > Senior developer responsible for building AI-powered document analysis systems using GCP, Vertex AI, and LangChain. Developed production RAG pipelines, semantic search, OCR, transcription, and GenAI workflows — hands-on, end-to-end.
 
 **Full Stack Developer** @ AIQHOME `2020 – 2021`
