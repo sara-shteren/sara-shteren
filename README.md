@@ -81,6 +81,7 @@ Currently a **Senior Developer at Elad Software**, working on-site at the **Mini
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [airport-investment-agent](https://github.com/sara-shteren/airport-investment-agent) | AI agent that ranks US airports for investment using a deterministic scoring engine (percentile ranking + geometric-mean composite), with an LLM tool-calling layer for natural-language Q&A | Python, LangChain, Gemini, Streamlit |
 | [rag-mcp-project](https://github.com/sara-shteren/rag-mcp-project) | Full RAG system with MCP tools, SentenceTransformers embeddings, semantic search & Ollama LLM | Python, LangChain, Ollama |
 | [SMARTI-Service-Challenge-Tsg](https://github.com/sara-shteren/SMARTI-Service-Challenge-Tsg) | Production-grade clean architecture: Api / Application / Domain / Repositories layers + Dockerfile | C#, .NET Core, Docker |
 | [Mitav_dash_test](https://github.com/sara-shteren/Mitav_dash_test) | Full-stack dashboard with Web API backend, React frontend & SQL data layer | C#, React, SQL Server |
